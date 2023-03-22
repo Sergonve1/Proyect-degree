@@ -1,2 +1,12 @@
-One of my passions has become how to valuate real options properly. During my last year in the university got the pleassure of working with proffesor Gabriel and Suana, wich help me to understand and to apply one of the most complex and powerfull tool.
+Real options have become my passion, but valuing them correctly requires a change in our mindset or even our worldview. 
 
+Copeland describes real options as the most complex and powerful tools for valuing firms or real projects. 
+He even forecasted that in 30 years, real options will displace other methods based on discounted free cash flow. 
+However, this did not happen due to the absence of a general formula, which in turn necessitates adapting software to every real project. 
+Under this scenario, coding becomes a crucial and necessary skill.
+
+This repository includes three documents:
+
+A research article in which the researchers applied Copeland Antikarov's method, and I used the data to apply LSM.
+A Jupyter Notebook with all the code.
+An Excel spreadsheet where I imported all the data created by the script
